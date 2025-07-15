@@ -1,4 +1,3 @@
-Here's your writeup **converted into a clean GitHub-compatible Markdown file** named `click-counter.md`. You can copy-paste it directly into a new `.md` file in your GitHub repo:
 
 ````markdown
 # 🖱️ CTF Writeup: Click Counter - BlitzHack (BlitzCTF 2025)
